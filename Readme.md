@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/DXPivotGrid_OLAPSortBySummary/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXPivotGrid_OLAPSortBySummary/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DXPivotGrid_OLAPSortBySummary/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXPivotGrid_OLAPSortBySummary/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXPivotGrid_OLAPSortBySummary/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXPivotGrid_OLAPSortBySummary/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to implement Sorting by Summary in OLAP mode
 
